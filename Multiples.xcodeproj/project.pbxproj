@@ -401,6 +401,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = self.nathanboosinger.Multiples;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -412,6 +413,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = self.nathanboosinger.Multiples;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -482,6 +484,7 @@
 				2EA121311C1A03D400847179 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2EA121321C1A03D400847179 /* Build configuration list for PBXNativeTarget "MultiplesTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				2EA121341C1A03D400847179 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2EA121351C1A03D400847179 /* Build configuration list for PBXNativeTarget "MultiplesUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +502,7 @@
 				2EA121371C1A03D400847179 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
